@@ -53,12 +53,12 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\SkillTree.cs" />
-     <Compile Include="Assets\Scripts\SkillNode.cs" />
-     <Compile Include="Assets\Scripts\SkillButton.cs" />
-     <Compile Include="Assets\Scripts\LearnButton.cs" />
-     <Compile Include="Assets\Scripts\SkillpointsDisplayer.cs" />
-     <Compile Include="Assets\Scripts\SkillListenerButton.cs" />
      <Compile Include="Assets\Scripts\ForgetButton.cs" />
+     <Compile Include="Assets\Scripts\SkillButton.cs" />
+     <Compile Include="Assets\Scripts\SkillpointsDisplayer.cs" />
+     <Compile Include="Assets\Scripts\LearnButton.cs" />
+     <Compile Include="Assets\Scripts\SkillNode.cs" />
+     <Compile Include="Assets\Scripts\SkillListenerButton.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
